@@ -19,7 +19,7 @@ class Module extends \yii\base\Module
     {
         Yii::setAlias('@dashboad', __DIR__);
         
-        $this->controllerNamespace = "izi\\dashboad\\controllers";
+        $this->controllerNamespace = "izi\\{$this->moduleName}\\controllers";
         
         parent::init();
         Yii::$app->view->theme = new \izi\web\Theme([
@@ -27,7 +27,7 @@ class Module extends \yii\base\Module
                 /**
                  * thiết lập pathmap cho các mục cấp con trước (thư mục có độ sâu lớn nhất phải thiết lập đầu tiên)
                  *     
-                 ### uncomment if you want
+                 * uncomment if you want
                 '@dashboad' => [
                     "@app/modules/dashboads/v1.5",
                     "@app/modules/dashboads/v1.0",
