@@ -28,14 +28,14 @@ class Module extends \yii\base\Module
                  * thiết lập pathmap cho các mục cấp con trước (thư mục có độ sâu lớn nhất phải thiết lập đầu tiên)
                  *     
                  * uncomment if you want
-                 * '@dashboad' => [
-                 *  "@app/modules/dashboads/v1.5",
-                 *  "@app/modules/dashboads/v1.0",
+                 * '@dashboard' => [
+                 *  "@app/modules/dashboard/v1.5",
+                 *  "@app/modules/dashboard/v1.0",
                  * ],
                 */
             ],
             'baseUrl' => "@web/themes/{$this->moduleName}",
-            'basePath'=>'@dashboad/views',                    
+            'basePath'=>'@dashboard/views',                    
         ]);
         // custom initialization code goes here
 
