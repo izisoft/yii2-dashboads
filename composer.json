@@ -1,6 +1,6 @@
 {
-	"name" : "izisoft/yii2-dev",
-	"description" : "Yii2 Component developer",
+	"name" : "izisoft/yii2-dashboads",
+	"description" : "Yii2 Components for developer",
 	"type" : "yii2-extension",
 	"keywords" : [
 		"yii2",
@@ -21,8 +21,8 @@
 	],
 	"minimum-stability" : "stable",
 	"support" : {
-		"source" : "https://github.com/izisoft/yii2-geoip",
-		"issues" : "https://github.com/izisoft/yii2-geoip/issues",
+		"source" : "https://github.com/izisoft/yii2-dashboads",
+		"issues" : "https://github.com/izisoft/yii2-dashboads/issues",
 		"email" : "zinzinx8@gmail.com"
 	},
 	"require" : {
@@ -30,7 +30,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"izi\\dev\\" : "src"
+			"izi\\dashboad\\" : "src"
 		}
 	},
 	"homepage" : "https://iziweb.net"
