@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://mdbootstrap.com/docs/jquery/getting-started/download/">
-    <img width="500" src="https://mdbootstrap.com/img/Marketing/general/logo/huge/mdb.png">
-  </a>
-</p>
+
 
 <h1 align="center">Material Design for Bootstrap 4</h1>
 
@@ -218,40 +214,3 @@ Our license is user friendly. Feel free to use MDB for both private as well as c
 
 A big ❤️ **thank you to all our users** ❤️ who are working with us to improve the software. We wouldn't be where we are without you. 
 
-________
-
-# Useful Links
-
-- [Getting Started](https://mdbootstrap.com/docs/jquery/getting-started/download/)
-
-- [5 min quick start](https://mdbootstrap.com/education/bootstrap/quick-start/)
-
-- [Freebies](https://mdbootstrap.com/freebies/)
-
-- [Premium Templates](https://mdbootstrap.com/templates/)
-
-________
-
-
-# Social Media
-
- - [Twitter](https://twitter.com/MDBootstrap)
-
- - [Facebook](https://www.facebook.com/mdbootstrap) 
-
- - [Pinterest](https://pl.pinterest.com/mdbootstrap)
-
- - [Google+](https://plus.google.com/u/0/b/107863090883699620484/+Mdbootstrap/posts)
-
- - [Dribbble](https://dribbble.com/mdbootstrap)
-
- - [LinkedIn](https://www.linkedin.com/company/material-design-for-bootstrap)
- 
- - [YouTube](https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA)
-
-
-________
-
-# PRO version
-
- - [Material Design for Bootstrap PRO](https://mdbootstrap.com/products/jquery-ui-kit/)
