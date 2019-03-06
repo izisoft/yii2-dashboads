@@ -1,5 +1,5 @@
 {
-	"name" : "izisoft/yii2-dashboads",
+	"name" : "izisoft/yii2-dashboards",
 	"description" : "Yii2 Components for developer",
 	"type" : "yii2-extension",
 	"keywords" : [
@@ -30,7 +30,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"izi\\dashboad\\" : "src"
+			"izi\\dashboard\\" : "src"
 		}
 	},
 	"homepage" : "https://iziweb.net"
